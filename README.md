@@ -1,8 +1,14 @@
 ![Detecto Logo](assets/logo_words.svg)
 --------------------------------------
-
 [![CircleCI](https://circleci.com/gh/alankbi/detecto/tree/master.svg?style=svg)](https://circleci.com/gh/alankbi/detecto/tree/master)
 [![Documentation Status](https://readthedocs.org/projects/detecto/badge/?version=latest)](https://detecto.readthedocs.io/en/latest/?badge=latest)
+
+
+
+
+[Article](https://towardsdatascience.com/build-a-custom-trained-object-detection-model-with-5-lines-of-code-713ba7f6c0fb)
+
+
 
 
 Detecto is a Python package that allows you to build fully-functioning computer vision and object detection models with just 5 lines of code. 
